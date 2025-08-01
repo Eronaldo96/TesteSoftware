@@ -1,0 +1,78 @@
+## Ignore arquivos de build
+bin/
+obj/
+
+## Ignore arquivos de publicação
+out/
+publish/
+*.publish.xml
+
+## Ignore pacotes NuGet baixados
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+.nuget/
+project.lock.json
+
+## Ignore arquivos de log e dados temporários
+*.log
+*.tmp
+*.temp
+
+## Ignore configurações de IDEs (Visual Studio, Rider)
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore configurações do Visual Studio
+*.vcxproj.user
+*.csproj.user
+*.dbmdl
+*.bak
+*.psess
+*.vsp
+*.pdb
+*.cache
+*.sdf
+*.ncb
+
+## Ignore arquivos do ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Ignore diretórios de teste e cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+*.testsettings
+
+## Ignore arquivos gerados por ferramentas de análise
+*.CodeAnalysisLog.xml
+*.ruleset
+
+## Ignore arquivos do Rider
+.idea/
+
+## Ignore arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Ignore arquivos do macOS
+.DS_Store
+
+## Ignore arquivos do Linux
+*~
+
+## Ignore arquivos de backup do editor
+*.bak
+*.swp
+
+## Ignore arquivos do Git
+.gitignore
