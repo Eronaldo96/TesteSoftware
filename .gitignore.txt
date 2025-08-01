@@ -1,78 +1,117 @@
-## Ignore arquivos de build
+#####################################
+## Diretórios e arquivos de build ##
+#####################################
 bin/
 obj/
-
-## Ignore arquivos de publicação
 out/
 publish/
-*.publish.xml
-
-## Ignore pacotes NuGet baixados
-*.nupkg
-*.snupkg
-packages/
-*.nuspec
-.nuget/
-project.lock.json
-
-## Ignore arquivos de log e dados temporários
-*.log
-*.tmp
-*.temp
-
-## Ignore configurações de IDEs (Visual Studio, Rider)
-.vscode/
-.idea/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-## Ignore configurações do Visual Studio
-*.vcxproj.user
-*.csproj.user
-*.dbmdl
-*.bak
-*.psess
-*.vsp
-*.pdb
-*.cache
-*.sdf
-*.ncb
-
-## Ignore arquivos do ReSharper
-_ReSharper*/
-*.DotSettings.user
-
-## Ignore diretórios de teste e cobertura
 TestResults/
 coverage/
 *.coverage
 *.coveragexml
-*.trx
-*.testsettings
+*.pdb
+*.mdb
+*.cache
 
-## Ignore arquivos gerados por ferramentas de análise
+##############################
+## Arquivos binários       ##
+##############################
+*.dll
+*.exe
+
+##############################
+## Logs e arquivos temporários ##
+##############################
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+#######################################
+## Arquivos de dados temporários     ##
+## (json, xml, yaml, csv usados em testes) ##
+#######################################
+*.tmp.json
+*.test.json
+*.sample.json
+*.local.json
+*.backup.json
+
+*.tmp.xml
+*.test.xml
+*.sample.xml
+*.local.xml
+*.backup.xml
+
+*.tmp.yaml
+*.test.yaml
+*.sample.yaml
+*.local.yaml
+*.backup.yaml
+
+*.tmp.csv
+*.test.csv
+*.sample.csv
+*.local.csv
+*.backup.csv
+
+##############################
+## IDEs e ferramentas       ##
+##############################
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.dbmdl
+*.psess
+*.vsp
+*.vs/
+*.ncb
+*.sdf
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# ReSharper
+_ReSharper*/
+
+#################################
+## Pacotes e dependências NuGet ##
+#################################
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+project.lock.json
+
+#################################
+## Arquivos de análise estática ##
+#################################
 *.CodeAnalysisLog.xml
 *.ruleset
 
-## Ignore arquivos do Rider
-.idea/
-
-## Ignore arquivos do Windows
+##############################
+## Arquivos do sistema      ##
+##############################
+# Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-## Ignore arquivos do macOS
+# macOS
 .DS_Store
 
-## Ignore arquivos do Linux
+# Linux
 *~
 
-## Ignore arquivos de backup do editor
-*.bak
-*.swp
-
-## Ignore arquivos do Git
+##############################
+## Arquivos do Git          ##
+##############################
 .gitignore
