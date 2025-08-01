@@ -1,0 +1,11 @@
+{
+  "bindingCulture": {
+    "language": "pt-BR"
+  },
+  "language": {
+    "feature": "pt"
+  },
+  "unitTestProvider": {
+    "name": "NUnit"
+  }
+}

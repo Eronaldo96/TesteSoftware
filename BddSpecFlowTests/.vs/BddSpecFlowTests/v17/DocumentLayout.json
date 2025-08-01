@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TesteSoftware\\BddSpecFlowTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|c:\\testesoftware\\bddspecflowtests\\bddspecflowtests\\criarcontasteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|solutionrelative:bddspecflowtests\\criarcontasteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|c:\\testesoftware\\bddspecflowtests\\bddspecflowtests\\criarconta.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|solutionrelative:bddspecflowtests\\criarconta.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|c:\\testesoftware\\bddspecflowtests\\bddspecflowtests\\acessarconta.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|solutionrelative:bddspecflowtests\\acessarconta.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|c:\\testesoftware\\bddspecflowtests\\bddspecflowtests\\acessarcontasteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|solutionrelative:bddspecflowtests\\acessarcontasteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|c:\\testesoftware\\bddspecflowtests\\bddspecflowtests\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8261DCBB-68D0-4949-AFA9-48B1862123B9}|BddSpecFlowTests\\BddSpecFlowTests.csproj|solutionrelative:bddspecflowtests\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriarContaSteps.cs",
+              "DocumentMoniker": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\CriarContaSteps.cs",
+              "RelativeDocumentMoniker": "BddSpecFlowTests\\CriarContaSteps.cs",
+              "ToolTip": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\CriarContaSteps.cs",
+              "RelativeToolTip": "BddSpecFlowTests\\CriarContaSteps.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:55:13.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriarConta.feature",
+              "DocumentMoniker": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\CriarConta.feature",
+              "RelativeDocumentMoniker": "BddSpecFlowTests\\CriarConta.feature",
+              "ToolTip": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\CriarConta.feature",
+              "RelativeToolTip": "BddSpecFlowTests\\CriarConta.feature",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-07T23:34:28.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcessarConta.feature",
+              "DocumentMoniker": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\AcessarConta.feature",
+              "RelativeDocumentMoniker": "BddSpecFlowTests\\AcessarConta.feature",
+              "ToolTip": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\AcessarConta.feature",
+              "RelativeToolTip": "BddSpecFlowTests\\AcessarConta.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-06T00:08:31.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcessarContaSteps.cs",
+              "DocumentMoniker": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\AcessarContaSteps.cs",
+              "RelativeDocumentMoniker": "BddSpecFlowTests\\AcessarContaSteps.cs",
+              "ToolTip": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\AcessarContaSteps.cs",
+              "RelativeToolTip": "BddSpecFlowTests\\AcessarContaSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:01:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "specflow.json",
+              "DocumentMoniker": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\specflow.json",
+              "RelativeDocumentMoniker": "BddSpecFlowTests\\specflow.json",
+              "ToolTip": "C:\\TesteSoftware\\BddSpecFlowTests\\BddSpecFlowTests\\specflow.json",
+              "RelativeToolTip": "BddSpecFlowTests\\specflow.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T23:56:59.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
